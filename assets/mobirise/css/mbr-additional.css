@@ -710,32 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rN0L6tNUGj {
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
-}
-.cid-rN0L6tNUGj .mbr-section-subtitle {
-  font-style: italic;
-  letter-spacing: 1rem;
-}
-.cid-rN0L6tNUGj .mbr-text,
-.cid-rN0L6tNUGj .mbr-section-btn {
-  text-align: center;
-}
-.cid-rN0L6tNUGj .mbr-section-title {
-  text-align: center;
-  color: #07134c;
-}
-.cid-rN0RPwCpyG {
-  padding-top: 75px;
-  padding-bottom: 45px;
-  background-color: #efefef;
-}
-.cid-rN0RPwCpyG .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-rN0RPwCpyG H2 {
-  text-align: center;
-}
 .cid-rN0Qfx6bqg .navbar {
   background: #232323;
   transition: none;
@@ -1002,7 +976,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rN0Qfx6bqg .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: 91.5625vh;
+    max-height: 92.5vh;
   }
 }
 .cid-rN0Qfx6bqg .collapsed button.navbar-toggler {
@@ -1180,6 +1154,9 @@ section.lazy-placeholder:after {
   .cid-rN0Qfx6bqg .menu-logo .navbar-brand {
     margin-left: 5rem;
   }
+}
+.cid-rN6BQQDltH {
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-rN13hm9zL5 {
   padding-top: 45px;
